@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mitrabuggaveeti
-- 👀 I’m interested in working on web dev projects node,react
+- 👀 I’m interested in working on web dev projects node,react'
+- 🎓 Graduate student @ University of North Carolina at Charlotte | 2022-24
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on project related to node with cloud integration
 - 📫 How to reach me mitrabuggaveeti@gmail.com
